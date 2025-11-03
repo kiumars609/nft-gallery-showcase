@@ -1,25 +1,35 @@
-# NFT Gallery Showcase
+# 🎨 NFT Gallery Showcase
 
-Curated NFT gallery demo built with React, Vite, Sass, Framer Motion and GSAP ScrollTrigger.
+A modern, animated NFT gallery built with **React**, **Sass**, **Framer Motion**, and **GSAP** — inspired by futuristic digital art showcases.
 
-## About
-This project demonstrates a modern gallery UI with:
-- 3D tilt hover interaction (GSAP)  
-- Scroll reveal animations (GSAP ScrollTrigger)  
-- Smooth UI transitions (Framer Motion)  
-- Mock NFT collection (images via picsum.photos)
-
-## Quick start
-```bash
-git clone https://github.com/YourUsername/nft-gallery-showcase.git
-cd nft-gallery-showcase
-npm install
-npm run dev
-```
-
-## Suggested repo name & description
-**Repository name:** `nft-gallery-showcase`  
-**Description:** `NFT Gallery Showcase — React + Sass + Framer Motion + GSAP. Modern portfolio gallery with 3D hover and scroll reveals.`
+## 🚀 Overview
+This project is a clean, immersive 3D NFT gallery designed to highlight digital artwork with smooth animations and a minimal dark theme.  
+It’s fully responsive and built for performance and visual impact.
 
 ---
-Crafted for portfolio use — swap images with real NFTs or integrate an API for dynamic data.
+
+## ✨ Features
+
+- 🎭 **3D Hover Tilt Effects** for each NFT card  
+- 🌀 **Scroll Animations** powered by GSAP + Framer Motion  
+- 💅 **Sass Modular Styles** with clean BEM architecture  
+- 🧩 **React Components** for modularity and reusability  
+- 📱 Fully responsive layout (mobile-first design)  
+- ⚡ Built with **Vite** for ultra-fast dev experience
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| React | UI Components |
+| Sass | Styling & Theming |
+| Framer Motion | Animations & Transitions |
+| GSAP | Scroll & Reveal Effects |
+| Vite | Build Tool & Dev Server |
+
+---
+
+## 📂 Folder Structure
+
