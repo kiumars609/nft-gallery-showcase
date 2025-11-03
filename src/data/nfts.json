@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Neon Bloom",
+    "artist": "A. Rivera",
+    "price": "2.4 ETH",
+    "image": "https://picsum.photos/seed/nft1/800/800"
+  },
+  {
+    "id": 2,
+    "title": "Crypto Jungle",
+    "artist": "D. Kim",
+    "price": "1.1 ETH",
+    "image": "https://picsum.photos/seed/nft2/800/800"
+  },
+  {
+    "id": 3,
+    "title": "Retro Waves",
+    "artist": "M. Cho",
+    "price": "0.9 ETH",
+    "image": "https://picsum.photos/seed/nft3/800/800"
+  },
+  {
+    "id": 4,
+    "title": "Etheral Glow",
+    "artist": "L. Santos",
+    "price": "3.0 ETH",
+    "image": "https://picsum.photos/seed/nft4/800/800"
+  },
+  {
+    "id": 5,
+    "title": "Pixel Garden",
+    "artist": "R. Gupta",
+    "price": "0.6 ETH",
+    "image": "https://picsum.photos/seed/nft5/800/800"
+  },
+  {
+    "id": 6,
+    "title": "Synth Horizon",
+    "artist": "Z. Lee",
+    "price": "1.8 ETH",
+    "image": "https://picsum.photos/seed/nft6/800/800"
+  },
+  {
+    "id": 7,
+    "title": "Dreamcode",
+    "artist": "F. Noor",
+    "price": "0.75 ETH",
+    "image": "https://picsum.photos/seed/nft7/800/800"
+  },
+  {
+    "id": 8,
+    "title": "Lunar Drift",
+    "artist": "Y. Park",
+    "price": "4.2 ETH",
+    "image": "https://picsum.photos/seed/nft8/800/800"
+  }
+]

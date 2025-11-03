@@ -1,0 +1,22 @@
+{
+  "name": "nft-gallery-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NFT Gallery Showcase \u2014 React + Vite + Sass + Framer Motion + GSAP. Portfolio-quality NFT grid with 3D tilt, hover effects and scroll reveal.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.12.16",
+    "gsap": "^3.12.2",
+    "sass": "^1.73.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
